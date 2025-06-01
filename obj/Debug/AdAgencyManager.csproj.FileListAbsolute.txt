@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.Properties.Resources.resources
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diplom\serv\AdAgencyManager\obj\Debug\AdAgencyManager.exe.config
